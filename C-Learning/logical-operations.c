@@ -1,0 +1,1 @@
+//any value other than 0 is considered TRUE and 0 is considered FALSE
